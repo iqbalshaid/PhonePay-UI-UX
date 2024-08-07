@@ -1,0 +1,42 @@
+export const frontImage = [{
+        id:1,
+        img:"https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2021-07/Phonepay.jpg",
+},
+{
+    id:2,
+    img:"https://th.bing.com/th/id/OIP.XFNVA0vUjae2OcLRnUE8FAHaEB?w=735&h=400&rs=1&pid=ImgDetMain",
+},
+{
+    id:3,
+    img:"https://i.ytimg.com/vi/8D1AIJUOjHI/maxresdefault.jpg",
+},
+{
+    id:4,
+    img:"https://i.ytimg.com/vi/cRpfxxkx8JA/maxresdefault.jpg",
+},
+{
+    id:5,
+    img:"https://thumbs.dreamstime.com/b/cellphone-logo-indian-payments-company-phonepe-pvt-ltd-screen-front-business-website-stuttgart-germany-cellphone-267281521.jpg",
+},];
+ export const Games = [
+    {
+        id:1,
+        img:"https://play-lh.googleusercontent.com/gjq_eSKxO6-JtmIkVEv4Eh3litkB2cYf_BnL-6b5Rgyw6rNfw2gbLogsZBFXJZzb4OY"
+    },
+    {
+        id:2,
+        img:"https://onlinepokergame.net/wp-content/uploads/2022/12/Rummy-1.jpg"
+    },
+    {
+        id:3,
+        img:"https://rcmg.in/rc/acquisition/how-to-play-rummy-page-images/how-to-play-rummy.jpg"
+    },
+    {
+        id:4,
+        img:"https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/cc95a985-842b-409a-916b-daf69d2c170c/677549566/rummy-champ-poker-cards-indian-rummy-game-playing-Rummy-Champ-Poker-Cards-Indian-Rummy-Game-for-android.jpg"
+    },
+    {
+        id:5,
+        img:"https://www.rummycircle.com/blog/wp-content/uploads/2022/09/A-Complete-Guide-to-Winning-Live-Rummy-Tournaments.jpg"
+    },
+]
